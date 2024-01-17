@@ -1,0 +1,10 @@
+a = 100
+b =4.90
+c ='a'
+d = 9 +3j
+e = True
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
