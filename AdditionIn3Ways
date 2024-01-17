@@ -1,0 +1,22 @@
+#scripting way
+a = 10
+b = 20
+print (a+b)
+
+# procedural way 
+def add():
+    a =10
+    b = 20
+    c = a+b
+    print(c)
+add()
+    
+#oop way
+class Main():
+    def addition(self):
+        a = 100
+        b = 200
+        c = a+b
+        print(c)
+d = Main()
+d.addition()
