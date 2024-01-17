@@ -1,0 +1,7 @@
+#Class-Method used
+
+class Desmo(:
+  def add():
+    print("Hello Wolrd")
+d = Demo()
+d.add()
