@@ -1,0 +1,19 @@
+#Implicit TypeCasting
+#int to float
+
+
+a=10
+print(a,type(a))
+b = 20
+print(b,type(b))
+result = a/b
+print(result,type(result))
+print(result)
+
+
+#Explicit TypeCasting
+
+a =1099
+b =200
+result = int(a/b)
+print(result)
