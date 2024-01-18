@@ -1,0 +1,25 @@
+#float - int
+
+a = 55.4
+print(a,type(a))
+b = int(a)
+print(b,type(b))
+
+#bool - int
+
+a = True
+print(a,type(a))
+b = int(a)
+print(b,type(b))
+
+#complex - int//not allow // error
+#not allow // use .real / .image for allow
+#a = 5 + 6j
+#print(a,type(a))
+#b = int(a)
+#print(b,type(b))
+
+#string - int
+a = "234"
+b = int(a)
+print(type(a))
