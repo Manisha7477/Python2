@@ -1,0 +1,17 @@
+list = [23,78,56,12,10,'rt']
+print(list)
+list.append(45)
+print(list)
+list.pop()
+print(list)
+list.pop(2)
+print(list)
+list.remove(10)
+print(list)
+del list
+print(list)
+
+list.remove(10)
+print(list)
+del list
+print(list)
